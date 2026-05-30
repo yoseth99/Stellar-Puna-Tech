@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bordo-900: #77283a;
+  --color-bordo-700: #9a3b31;
+  --color-bordo-500: #c04e3f;
+  --color-bordo-100: #fce8e4;
+  --color-cream: #fdfdfd;
+  --color-dark: #000000;
+  --color-muted: #6b7280;
+  --color-success: #16a34a;
+  --color-warning: #d97706;
+  --font-title: 'Montserrat', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
